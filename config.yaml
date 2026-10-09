@@ -1,0 +1,5 @@
+# Change the model here if it is unavailable for your Groq account.
+model: openai/gpt-oss-20b
+temperature: 0.2
+max_tokens: 300
+max_input_length: 5000
