@@ -110,3 +110,11 @@ This project provides practical experience with:
 ## GitHub Repository
 
 [AI Sentiment Analyzer — GitHub Repository](https://github.com/Satvik0301/AI-Sentiment-Analyzer)
+
+## ScreenShot
+
+<img width="1274" height="643" alt="image" src="https://github.com/user-attachments/assets/5224ad65-a2ab-4e84-b70c-ddadc520c6ea" />
+
+
+
+<img width="722" height="471" alt="Screenshot 2026-10-09 163840" src="https://github.com/user-attachments/assets/7c66a85a-af29-4db0-a8f2-02cf425c6e6b" />
